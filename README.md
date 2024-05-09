@@ -1,5 +1,7 @@
 # Offline Form Handling with Service Workers and IndexedDB
 
+Code Example for this article: [Offline Form Handling with Service Workers and IndexedDB](https://dennistowns.substack.com/p/offline-first-forms-with-react-service)
+
 This project demonstrates how to use service workers alongside IndexedDB to create a robust offline experience for web form submissions. It enables storing form data locally when the client is offline and synchronizes it with the server once connectivity is restored.
 
 ## Key Features
